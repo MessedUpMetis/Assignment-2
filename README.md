@@ -9,8 +9,8 @@ steps:
 1) made the changes to the website
 2) we pushed to github
 
-Yes, the conflict was we opened different files after we pulled from github
+Yes, the conflict was we opened and modified two different index.html files after we pulled from github (Hunter created a new one).
 
-we both opened th correct website file, then we could see the changes we made to the website files
+To solve this, we both opened the correct index.html file, then we could see the changes we both made to the website.
 
 
