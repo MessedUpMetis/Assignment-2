@@ -61,3 +61,11 @@ h1{
 	color:black;
 	margin-bottom: 25px;
 }
+
+footer{
+	background-color: aqua;
+	color: azure;
+	margin-top: 20px;
+	text-align: center;
+	padding: 10px;
+}
